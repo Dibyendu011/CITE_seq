@@ -1,4 +1,4 @@
-# Single-Cell Multi-Omics Analysis of PBMC CITE-seq Data
+# scCITE-seq Data Analysis
 
 ## Overview
 This repository contains a comprehensive single-cell multi-omics analysis pipeline for studying PBMCs using CITE-seq technology. The analysis integrates transcriptomic and surface protein expression data to characterize cellular heterogeneity, identify immune cell populations, and reveal biological insights through combined RNA and protein measurements.
